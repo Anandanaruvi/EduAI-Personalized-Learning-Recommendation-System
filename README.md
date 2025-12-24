@@ -1,4 +1,6 @@
 # EduAI-Personalized-Learning-Recommendation-System
+
+### Introduction:
 EduAI – Personalized Learning Recommendation System
 Description (Simple & Easy, Point-Wise)
 Introduction
@@ -154,6 +156,22 @@ Version Control: Git & GitHub
 
 Visualization: Matplotlib / Plotly
 
+### Architecture Diagram
+<img width="844" height="568" alt="image" src="https://github.com/user-attachments/assets/81e1885a-5b2e-4ca3-a991-97f0b7ca65cc" />
+
+### Flow Diagram
+<img width="706" height="347" alt="image" src="https://github.com/user-attachments/assets/98eda59e-b08d-411c-a8a2-b43ed7929829" />
+
+### Design-Use case Diagram
+<img width="431" height="431" alt="image" src="https://github.com/user-attachments/assets/0a970edf-caef-49a9-adb4-91ef6c93e0ab" />
+
+### Class Diagram
+<img width="566" height="352" alt="image" src="https://github.com/user-attachments/assets/117f20ec-e70b-458e-9ab9-4c9c18dc0173" />
+
+### Sequence Diagram
+<img width="626" height="440" alt="image" src="https://github.com/user-attachments/assets/c770bc28-4143-42e9-98e2-8d619ef0e0c3" />
+
+
 ### Implementation
 
 Python used to build ML model and backend system.
@@ -170,19 +188,19 @@ Dashboard displays personalized content and progress charts.
 
 System updates recommendations continuously based on new activity.
 
-### Output Screens
+### OUTPUT:
+### Student Login / Registration Page
+<img width="776" height="499" alt="image" src="https://github.com/user-attachments/assets/6215cfc4-1ec6-4ef3-8f8b-31ad2d1bee5b" />
 
-Student Login / Registration Page
+### Detection With Details
+<img width="700" height="373" alt="image" src="https://github.com/user-attachments/assets/529fac62-7e91-4406-890b-fafba71a755b" />
 
-Dashboard with progress summary
 
-Recommended Videos and Notes
+### OUTPUT
+<img width="581" height="771" alt="image" src="https://github.com/user-attachments/assets/ada3a2da-c37c-42b0-a6fa-cf169c2a7649" />
 
-Quiz Suggestion Page
 
-Learning Path Screen
 
-Performance History and Graphs
 
 ### Conclusion
 
@@ -199,3 +217,30 @@ Offer teacher dashboards for class-level insights.
 Add AI chatbot tutor for instant student support.
 
 Provide AR/VR-based immersive learning experiences.
+
+### REFERENCES:
+Souabi, S., et al. (2021).
+Recommendation Systems on E-Learning and Social Learning: A Systematic Review.
+Electronic Journal of e-Learning, Vol. 19, No. 5.
+
+Zhang, Q., Lu, J., & Zhang, G. (2021).
+Recommender Systems in E-Learning.
+Journal of Smart Environments and Green Computing.
+
+Moharm, K. (2019).
+A Framework for Adaptive Personalized E-Learning Recommender Systems.
+International Journal of Intelligent Information Systems.
+
+Kaur, M., & Jain, R. (2025).
+E-Learning Platform with AI-Based Recommendations.
+IJRASET.
+
+Portugal, I., Alencar, P., & Cowan, D. (2015).
+The Use of Machine Learning Algorithms in Recommender Systems.
+arXiv.
+
+Scikit-learn Documentation. (2024).
+Machine Learning Algorithms for Recommendation Systems.
+
+GeeksforGeeks. (2024).
+Personalized Recommendation Algorithms and Hybrid Models.
